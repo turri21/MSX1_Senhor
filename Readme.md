@@ -1,3 +1,7 @@
+-=(MSX1_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # MSX1 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ## Features
