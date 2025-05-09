@@ -2,6 +2,8 @@
 
 Tested: Working Video 720p, 1080p & Sound
 
+There is a new branch which also has support for [MSX2](https://github.com/turri21/MSX1_Senhor/tree/MSX2)!
+
 # MSX1 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ## Features
