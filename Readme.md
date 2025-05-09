@@ -1,3 +1,14 @@
+-=(MSX1-MSX2_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+You are going to need the #MSXPACKS.zip
+
+Extract the contents to games/MSX1 and use the OSD "LOAD FW PACK *.MSX" to manually load the CART_FW_EN.MSX firmware.
+
+Finally, use the OSD "LOAD ROM PACK *.MSX" to manually load the .MSX ROM of your preference, for example Philips_NMS_8250.MSX.
+
+___
 # MSX1/MSX2 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 # Features MSX1
