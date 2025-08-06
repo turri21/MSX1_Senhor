@@ -4,7 +4,7 @@ Tested: Working Video 720p, 1080p & Sound
 
 There is a new branch which also has support for [MSX2](https://github.com/turri21/MSX1_Senhor/tree/MSX2)!
 
-Dev notes: jt51 amd IKAOPLL are required to synthesize the core.
+Dev notes: jt51 amd IKAOPLL are required to synthesize this core.
 ___
 # MSX1 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
@@ -36,4 +36,5 @@ Copy boot.rom to Games/MSX1 folder
 
 ## ALternative firmware/hangul ROM
 Copy boot1.rom to Games/MSX1 folder
+
 
